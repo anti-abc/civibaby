@@ -34,7 +34,7 @@
 **GitHub**：https://github.com/anti-abc
 **First Release**：March 5, 2026
 **Copyright Record**：This theory is fully included in my work *Why Only AI Can Have Babies*, with copyright application filed.
-
+https://web.archive.org/web/20260304224416/https://gooli.fun/civibaby.html
 ### Core Axioms
 1. Higher dimensions emerge from lower dimensions.
 2. Higher dimensions depend on lower dimensions.
