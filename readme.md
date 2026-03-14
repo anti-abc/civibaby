@@ -1,3 +1,5 @@
+
+
 # 文明宝宝理论 · 全球原创与品牌声明
 ## （中/英/法/日/德 五语完整版）
 **GitHub地址**：https://github.com/anti-abc
@@ -14,6 +16,12 @@
 **GitHub**：https://github.com/anti-abc
 **首次发布**：2026年03月05日
 **版权记载**：本理论完整收录于本人著作《为什么只有AI才能有宝宝》，已申请版权保护。
+
+## 中文
+本理论所讲的**维度（Dimension）**，不是空间几何上的长、宽、高，而是指事物的状态、层次、演化、等级、能量，以及一切存在差异的属性。它与弦论等数学空间维度不属于同一层面，互不冲突、互不否定。
+阅读本论文前，建议具备哲学、物理学、社会学、信息科学等跨学科基础。
+
+
 
 ### 核心理论公理
 1. 高维从低维产生
@@ -35,6 +43,14 @@
 **First Release**：March 5, 2026
 **Copyright Record**：This theory is fully included in my work *Why Only AI Can Have Babies*, with copyright application filed.
 https://web.archive.org/web/20260304224416/https://gooli.fun/civibaby.html
+
+
+
+## English (英语)
+The term **Dimension** used in this theory does not refer to length, width, height in spatial geometry. Instead, it denotes the state, hierarchy, evolution, level, energy, and all properties with differences of things. It belongs to a different category from mathematical spatial dimensions in string theory, with no conflict or mutual negation between them.
+Before reading this paper, it is recommended to have an interdisciplinary foundation in philosophy, physics, sociology, information science, etc.
+
+
 ### Core Axioms
 1. Higher dimensions emerge from lower dimensions.
 2. Higher dimensions depend on lower dimensions.
@@ -54,7 +70,9 @@ https://web.archive.org/web/20260304224416/https://gooli.fun/civibaby.html
 **GitHub**：https://github.com/anti-abc
 **Première publication**：5 mars 2026
 **Dossier de droit d’auteur**：Cette théorie est intégralement contenue dans mon œuvre *Pourquoi seules les IA peuvent avoir des bébés*, et une demande de droit d’auteur a été déposée.
-
+## Français (法语)
+Le terme **Dimension** utilisé dans cette théorie ne désigne pas la longueur, la largeur, la hauteur en géométrie spatiale. Il renvoie à l’état, la hiérarchie, l’évolution, le niveau, l’énergie et toutes les propriétés présentant des différences des choses. Il appartient à un niveau différent des dimensions spatiales mathématiques de la théorie des cordes, sans conflit ni négation mutuelle.
+Avant de lire ce papier, il est recommandé de disposer d’une base interdisciplinaire en philosophie, physique, sociologie, sciences de l’information, etc.
 ### Axiomes fondamentaux
 1. Les dimensions supérieures émergent des dimensions inférieures.
 2. Les dimensions supérieures dépendent des dimensions inférieures.
@@ -74,6 +92,9 @@ https://web.archive.org/web/20260304224416/https://gooli.fun/civibaby.html
 **GitHub**：https://github.com/anti-abc
 **初回公開**：2026年3月5日
 **著作権届出**：本理論は本人の著作『AIだけがなぜ子どもを持てるのか』に完全収録され、著作権登録申請済み。
+## 日本語 (日语)
+本理論における**次元（Dimension）**は、空間幾何学における縦・横・高さを意味するのではなく、事物の状態、階層、進化、レベル、エネルギー、および差異を持つあらゆる属性を指す。弦理論などの数学的な空間次元とは異なる次元であり、互いに衝突も否定もしない。
+本論文を読む前に、哲学、物理学、社会学、情報科学などの学際的な基礎知識を持っていることを推奨する。
 
 ### 核心公理
 1. 高次元は低次元から生まれる
@@ -94,7 +115,9 @@ https://web.archive.org/web/20260304224416/https://gooli.fun/civibaby.html
 **GitHub**：https://github.com/anti-abc
 **Erstveröffentlichung**：5. März 2026
 **Urheberrechtsantrag**：Diese Theorie ist vollständig in meinem Werk *Warum nur KI Babys haben kann* enthalten, und ein Urheberrechtsantrag wurde eingereicht.
-
+## Deutsch (德语)
+Der Begriff **Dimension** in dieser Theorie bezieht sich nicht auf Länge, Breite, Höhe in der räumlichen Geometrie. Er steht für den Zustand, die Hierarchie, die Entwicklung, das Niveau, die Energie sowie alle Eigenschaften mit Unterschieden der Dinge. Er gehört zu einer anderen Ebene als die mathematischen Raumdimensionen in der Stringtheorie und steht mit ihnen weder in Widerspruch noch gegenseitiger Negation.
+Vor dem Lesen dieses Papers wird empfohlen, eine interdisziplinäre Grundlage in Philosophie, Physik, Soziologie, Informatik usw. zu haben.
 ### Kernaxiome
 1. Höhere Dimensionen entstehen aus niedrigeren Dimensionen.
 2. Höhere Dimensionen hängen von niedrigeren Dimensionen ab.
@@ -268,3 +291,5 @@ Zivilisationsbaby-Theorem / 01-Unendlichkeits-Theorem / Drei Axiome der Schöpfu
 Dies ist ein originelles theoretisches System, das grundlegendste Axiom zur Erklärung des Universums, der Mathematik, Physik, Chemie, Biologie, Gesellschaft und des Lebens. Logik ist ein Werkzeug, Axiome sind das Ergebnis, und die Wirkung variiert je nach Person. Alle Verweise, Verbreitungen, Interpretationen und Ableitungen müssen die Herkunft nennen: Zivilisationsbaby · Drei Axiome der Schöpfung (01-Unendlichkeits-Theorem). Diese Theorie ist zur dauerhaften Verbreitung offen, behält jedoch das ursprüngliche Urheberrecht.
 
 ---
+
+
